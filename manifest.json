@@ -1,9 +1,0 @@
-{
-  "name": "Senarai Semak Tugasan Guru Besar Daerah Besut",
-  "short_name": "Semak Guru Besar",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#f7efed",
-  "theme_color": "#641522",
-  "lang": "ms"
-}
